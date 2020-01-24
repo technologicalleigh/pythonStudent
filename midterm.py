@@ -1,6 +1,4 @@
-#Bradleigh Kottke
-
-#######################Problem###################################
+######################Problem###################################
 def countCountries(country):
     infile = open('transactions.csv')
     content=infile.read()
