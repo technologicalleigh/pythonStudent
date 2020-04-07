@@ -1,4 +1,4 @@
-''' This assignment probably could have been created in a cleaner way by creating objects'''
+
 ######################Problem 1##################################
 def getAvgSales(name):
     infile=open('widget_sales_with_id.csv')
